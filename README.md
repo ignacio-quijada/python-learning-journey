@@ -1,4 +1,5 @@
 # Python Learning Journey
+
 ## About Me
 
 My name is Ignacio Quijada and I am currently a Biology student at the University of Concepción. Alongside my academic studies, I am learning Python as part of my journey into programming and software development.
@@ -20,10 +21,13 @@ Creé este repositorio para documentar mi progreso mientras estudio los fundamen
 Fuera de la programación, me gusta el dibujo y la ilustración. Constantemente estoy creando nuevas ilustraciones y explorando ideas visuales como otra forma de expresar creatividad.
 
 Creo que la práctica constante y documentar el proceso de aprendizaje son claves para convertirse en un mejor desarrollador.
+
 ---
 
+## Project Description
+
 This repository documents my journey learning Python from the fundamentals.
-Each day focuses on a core concept of the language with small exercises to practice and reinforce understanding.
+Each day focuses on a core concept of the language with small exercises designed to practice and reinforce understanding.
 
 The goal of this project is to build a solid foundation in Python by practicing consistently and organizing the learning process step by step.
 
@@ -37,6 +41,8 @@ The goal of this project is to build a solid foundation in Python by practicing 
 * Lists
 * Dictionaries
 * Functions
+* String manipulation
+* File handling (reading and writing files)
 
 More topics will be added as the learning journey continues.
 
@@ -51,6 +57,8 @@ day03_loops_while_for.py
 day04_lists_basics.py
 day05_dictionaries.py
 day06_functions.py
+day07_strings.py
+day08_files.py
 ```
 
 Each file contains multiple exercises focused on practicing the concept of that day.
@@ -59,16 +67,18 @@ Each file contains multiple exercises focused on practicing the concept of that 
 
 ## Learning Progress
 
-| Day   | Topic                    |
-| ----- | ------------------------ |
-| Day 1 | Variables and Data Types |
-| Day 2 | Conditionals             |
-| Day 3 | Loops (while / for)      |
-| Day 4 | Lists                    |
-| Day 5 | Dictionaries             |
-| Day 6 | Functions                |
+| Day   | Topic                                     |
+| ----- | ----------------------------------------- |
+| Day 1 | Variables and Data Types                  |
+| Day 2 | Conditionals                              |
+| Day 3 | Loops (while / for)                       |
+| Day 4 | Lists                                     |
+| Day 5 | Dictionaries                              |
+| Day 6 | Functions                                 |
+| Day 7 | Strings and Text Manipulation             |
+| Day 8 | File Handling (reading and writing files) |
 
-More days will be added as the learning journey continues.
+More days and projects will be added as the learning journey continues.
 
 ---
 
@@ -78,6 +88,7 @@ More days will be added as the learning journey continues.
 * Practice problem solving
 * Develop clean and readable code
 * Track learning progress publicly
+* Transition from exercises to real programming projects
 
 ---
 
