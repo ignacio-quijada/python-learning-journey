@@ -7,3 +7,11 @@ def multiplicar(a, b):
 def dividir(a, b):
     if b != 0:
         return a / b
+    else:
+        return "Error: división por cero"
+
+if __name__ == "__main__":
+#     # pruebas de funciones
+    print(sumar(1,2))
+    print(restar(1,2))
+    print(multiplicar(1,2))
